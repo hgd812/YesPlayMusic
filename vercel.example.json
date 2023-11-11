@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-sable-gamma-61.vercel.app/:match*"
+      "destination": "http://107.173.181.130:3000/:match*"
     }
   ]
 }
